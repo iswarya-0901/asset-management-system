@@ -3,6 +3,8 @@
 A full-stack web platform for managing shared assets, booking requests, approval workflows, and utilization analytics. Built for the Cultural Council of IIT Roorkee.
 
  **Live Demo:** [asset-management-frontend2.vercel.app](http://asset-management-frontend2.vercel.app/)
+ ---
+ **Demo Video:** [Watch on YouTube]( https://youtu.be/Sp87VOOJTHc)
 
 ---
 
