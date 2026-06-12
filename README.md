@@ -5,17 +5,6 @@ A full-stack web platform for managing shared assets, booking requests, approval
  **Live Demo:** [asset-management-frontend2.vercel.app](http://asset-management-frontend2.vercel.app/)
  ---
  **Demo Video:** [Watch on YouTube]( https://youtu.be/Sp87VOOJTHc)
-
----
-
-##  Team Members
-
-| Name | Role |
-|------|------|
-| Ch. Rajeev Lochan | Full Stack Developer |
-| A. Iswarya | Full Stack Developer |
-| M. Sudhishna | Full Stack Developer |
-
 ---
 
 ##  Features
